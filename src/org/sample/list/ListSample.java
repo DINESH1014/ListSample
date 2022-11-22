@@ -9,7 +9,7 @@ import java.util.List;
 public class ListSample {
 
 	public static void main(String[] args) {
-		
+	int a = 20;	
 	
 	List l = new ArrayList();
 	
