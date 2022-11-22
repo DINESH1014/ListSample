@@ -9,7 +9,7 @@ import java.util.List;
 public class ListSample {
 
 	public static void main(String[] args) {
-		
+		System.out.println("DH");
 	
 	List l = new ArrayList();
 	
