@@ -9,7 +9,12 @@ import java.util.List;
 public class ListSample {
 
 	public static void main(String[] args) {
+//<<<<<<< HEAD
 		System.out.println("DH");
+	
+//=======
+		int a = 20;	
+//>>>>>>> 8a7e87a44f85c3f8eaa65d5eaccaa6b9dcf92e0a
 	
 	List l = new ArrayList();
 	
